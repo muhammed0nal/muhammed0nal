@@ -1,6 +1,6 @@
 ### Hi there 👋, Muhammed Onal
 #### Design and Development
-![Design and Development]
+
 
 I am Muhammed Onal. I am from Turkey. I am interested in web development
 
