@@ -4,7 +4,7 @@
 
 I am Muhammed Onal. I am from Turkey. I am interested in web development
 
-Skills: / JS / HTML / CSS / JAVA
+Skills: / JS / HTML / CSS
  <br/><br/>
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
 <br/><br/>
