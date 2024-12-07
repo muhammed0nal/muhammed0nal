@@ -2,7 +2,6 @@
 #### Design and Development
 
 
-I am Muhammed Onal. I am from Turkey. I am interested in web development
 
 Skills: / JS / REACT / REACT NATIVE / NODE.JS / HTML / CSS / FIGMA /
  <br/><br/>
